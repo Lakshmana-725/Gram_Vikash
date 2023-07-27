@@ -1,0 +1,8 @@
+1.Data collector -
+dashboard ,reports, auth, reports ,
+Village
+2.Dashboard - microfrontend
+
+data manager
+reports 
+management
